@@ -5025,7 +5025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 170.18 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5573,7 +5573,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 198.12 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6341,7 +6341,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 140.97 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6423,7 +6423,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 184.15 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6737,7 +6737,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 156.21 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6974,7 +6974,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 212.09 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7056,7 +7056,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 240.03 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7662,7 +7662,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 226.06 153.6762 0)
 			(show_name no)
 			(do_not_autoplace no)
